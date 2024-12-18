@@ -1,1 +1,3 @@
 # AzurePlayground
+
+repo is public
